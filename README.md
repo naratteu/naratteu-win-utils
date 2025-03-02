@@ -10,5 +10,5 @@
 git clone https://github.com/naratteu/naratteu-win-utils
 cd naratteu-win-utils
 git config core.quotepath off
-./giptfs.exe get
+.\giptfs.exe get
 ```
